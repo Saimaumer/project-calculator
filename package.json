@@ -1,0 +1,21 @@
+{
+  "name": "calculator_for_beginners",
+  "version": "1.0.0",
+  "description": "create calculator using operator and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saima",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "prompt": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.29"
+  }
+}
